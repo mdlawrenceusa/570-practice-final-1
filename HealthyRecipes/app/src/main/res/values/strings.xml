@@ -10,4 +10,8 @@
     <string name="txtItem4">3 TB olive oil</string>
     <string name="txtDirections">Directions</string>
     <string name="txtMix">Combine the ingredients and add salt to taste.  Top French bread slices with mixture.</string>
+    <string name="title_activity_recipe">Recipe</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="txtIngredients">Ingredients</string>
 </resources>
